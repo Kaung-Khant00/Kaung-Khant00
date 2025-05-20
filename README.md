@@ -1,9 +1,8 @@
-- 👋 Hi, I’m Kaung Khant.
+- 👋 Hi, My name is Kaung Khant.
 - 👀 I’m interested in coding and cycling.
-- 🌱 I’m currently learning javascript.
-- 💞️ I’m looking to collaborate on my javascript projects.
-- 📫 i live in Myanmar, Nay Pyi Taw
-- I am grade 10 student.
+- 🌱 I’m currently learning MERN stack and laravel.
+- 💞️ I’m looking to collaborate my projects.
+- I am grade 11 student.
 
 <!---
 Kaung-Khant00/Kaung-Khant00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
